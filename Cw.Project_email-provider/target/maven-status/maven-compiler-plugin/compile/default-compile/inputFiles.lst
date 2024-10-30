@@ -1,0 +1,10 @@
+/Users/alinabrusilovski/Java19/Cw.Project_probes-microservices/Cw.Project_email-provider/src/main/java/telran/microservices/probes/repo/PersonRepo.java
+/Users/alinabrusilovski/Java19/Cw.Project_probes-microservices/Cw.Project_email-provider/src/main/java/telran/microservices/probes/entities/Person.java
+/Users/alinabrusilovski/Java19/Cw.Project_probes-microservices/Cw.Project_email-provider/src/main/java/telran/microservices/probes/repo/SensorRepo.java
+/Users/alinabrusilovski/Java19/Cw.Project_probes-microservices/Cw.Project_email-provider/src/main/java/telran/microservices/probes/service/IDataProvider.java
+/Users/alinabrusilovski/Java19/Cw.Project_probes-microservices/Cw.Project_email-provider/src/main/java/telran/microservices/probes/EmailDataProviderAppl.java
+/Users/alinabrusilovski/Java19/Cw.Project_probes-microservices/Cw.Project_email-provider/src/main/java/telran/microservices/probes/dto/EmailData.java
+/Users/alinabrusilovski/Java19/Cw.Project_probes-microservices/Cw.Project_email-provider/src/main/java/telran/microservices/probes/dto/Person.java
+/Users/alinabrusilovski/Java19/Cw.Project_probes-microservices/Cw.Project_email-provider/src/main/java/telran/microservices/probes/service/DataProviderImpl.java
+/Users/alinabrusilovski/Java19/Cw.Project_probes-microservices/Cw.Project_email-provider/src/main/java/telran/microservices/probes/entities/Sensor.java
+/Users/alinabrusilovski/Java19/Cw.Project_probes-microservices/Cw.Project_email-provider/src/main/java/telran/microservices/probes/controllers/EmailDataProviderController.java
